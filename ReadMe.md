@@ -1,8 +1,8 @@
 # Hi, I'm Praveen 👋
 
-**Senior Product Manager | Financial Crimes, Fraud & AML | Risk Platforms | AI for Compliance**
+**Product Manager | Financial Crimes, Fraud & AML | Risk Platforms | AI for Compliance**
 
-I'm a Product Manager with 10+ years of experience designing and delivering enterprise risk platforms for banks and fintechs. My work focuses on helping financial institutions detect, prevent, and investigate financial crime through scalable, data-driven products.
+I'm a Product Manager with more than a decade of experience designing and delivering enterprise risk platforms for banks and fintechs. My work focuses on helping financial institutions detect, prevent, and investigate financial crime through scalable, data-driven products.
 
 My experience spans:
 
